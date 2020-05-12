@@ -9,6 +9,8 @@
 #' @examples
 #' allunique(c("A","A","B"))
 #'
+#' @keyword packjcaputo
+#'
 #' @export
 
 allunique <- function(x) {length(x)==lunique(na.omit(x))}
