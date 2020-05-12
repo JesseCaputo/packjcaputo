@@ -9,7 +9,7 @@
 #' @examples
 #' allunique(c("A","A","B"))
 #'
-#' @keyword packjcaputo
+#' @keywords packjcaputo
 #'
 #' @export
 
