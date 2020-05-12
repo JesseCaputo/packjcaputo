@@ -3,7 +3,7 @@ Type: Package
 Title: Miscellaneous Functions by Jesse Caputo
 Version: 0.1.0
 Author: Jesse Caputo
-Description: An assortment of miscelaneous functions
+Description: An assortment of miscellaneous functions
 License: GPL-3
 Encoding: UTF-8
 LazyData: true

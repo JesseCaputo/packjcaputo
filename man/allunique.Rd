@@ -19,4 +19,3 @@ Determines whether a vector contains only unique, non-null values
 allunique(c("A","A","B"))
 
 }
-\keyword{packjcaputo}
