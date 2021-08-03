@@ -1,3 +1,3 @@
 # packjcaputo
 
-An R package containing a handful of useful functions by Jesse Caputo.
+An R package containing an assortment of miscellaneous functions.
